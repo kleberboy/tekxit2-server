@@ -28,6 +28,9 @@ world-settings:
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
+    twilightforest-tileentity-TileEntityTFFirefly:
+      tick-no-players: false
+      tick-interval: 1
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
@@ -85,9 +88,6 @@ world-settings:
     ic2-core-block-generator-tileentity-TileEntitySolarGenerator:
       tick-no-players: false
       tick-interval: 1
-    twilightforest-tileentity-TileEntityTFFirefly:
-      tick-no-players: false
-      tick-interval: 1
     tconstruct-smeltery-logic-SmelteryLogic:
       tick-no-players: false
       tick-interval: 1
@@ -103,6 +103,12 @@ world-settings:
     tconstruct-smeltery-logic-FaucetLogic:
       tick-no-players: false
       tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityGrave:
+      tick-no-players: false
+      tick-interval: 1
     net-aetherteam-aether-tileentities-TileEntitySkyrootChest:
       tick-no-players: false
       tick-interval: 1
@@ -110,9 +116,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     net-aetherteam-aether-tileentities-TileEntitySliderLabyrinthDoor:
-      tick-no-players: false
-      tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
       tick-no-players: false
       tick-interval: 1
     cpw-mods-ironchest-TileEntityGoldChest:
@@ -188,9 +191,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     mods-railcraft-common-blocks-machine-beta-TileEngineSteamHobby:
-      tick-no-players: false
-      tick-interval: 1
-    openblocks-common-tileentity-TileEntityGrave:
       tick-no-players: false
       tick-interval: 1
     com-chocolate-chocolateQuest-block-BlockBannerStandTileEntity:
