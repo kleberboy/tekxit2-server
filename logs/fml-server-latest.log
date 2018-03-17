@@ -22551,3 +22551,1940 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 [17:03:50] [Server thread/INFO] [/]: npe choco
 [17:03:52] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
 [17:03:52] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:06:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:06:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:09:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:09:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:11:53] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[17:12:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:12:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:14:33] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[17:14:33] [Netty IO #0/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[17:14:33] [Netty IO #0/INFO] [journeymap/]: CLIENT
+[17:14:33] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[17:14:33] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:14:33] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:14:33] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[17:14:33] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:14:33] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[17:14:33] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:14:33] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[17:14:33] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[17:14:33] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[17:14:33] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[17:14:33] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[17:14:33] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[17:14:33] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[17:14:33] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[17:14:33] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[17:14:33] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[17:14:33] [Server thread/INFO] [/]: npe choco
+[17:15:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:15:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:18:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:18:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:21:53] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[17:21:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:21:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:24:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:24:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:27:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:27:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:30:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:30:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:31:53] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[17:33:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:33:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:36:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:36:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:39:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:39:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:41:54] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[17:42:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:42:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:45:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:45:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:48:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:48:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:51:54] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[17:51:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:51:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:54:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:54:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[17:57:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[17:57:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:00:53] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:00:53] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:01:57] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:03:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:03:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:06:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:06:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:09:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:09:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:11:58] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:12:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:12:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:15:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:15:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:16:24] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[18:16:24] [Netty IO #1/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[18:16:24] [Netty IO #1/INFO] [journeymap/]: CLIENT
+[18:16:24] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[18:16:25] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[18:16:25] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[18:16:25] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[18:16:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[18:16:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[18:16:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[18:16:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[18:16:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[18:16:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[18:16:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[18:16:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[18:16:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[18:16:25] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[18:16:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[18:16:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[18:16:25] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[18:16:25] [Server thread/INFO] [/]: npe choco
+[18:18:54] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:18:54] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:21:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:21:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:21:58] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:24:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:24:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:27:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:27:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:30:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:30:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:31:58] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:33:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:33:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:36:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:36:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:39:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:39:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:41:59] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:42:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:42:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:45:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:45:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:48:55] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:48:55] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:51:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:51:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:51:59] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[18:54:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:54:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[18:57:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[18:57:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:00:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:00:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:01:59] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:03:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:03:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:06:57] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:06:57] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:09:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:09:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:12:00] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:12:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:12:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:15:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:15:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:17:39] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[19:17:39] [Netty IO #1/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[19:17:39] [Netty IO #1/INFO] [journeymap/]: CLIENT
+[19:17:39] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[19:17:39] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:17:39] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[19:17:39] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[19:17:39] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:17:39] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[19:17:39] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:17:39] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:17:39] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[19:17:39] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[19:17:39] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[19:17:39] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[19:17:39] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[19:17:39] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[19:17:39] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[19:17:39] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[19:17:39] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[19:17:39] [Server thread/INFO] [/]: npe choco
+[19:18:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:18:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:21:15] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[19:21:15] [Netty IO #0/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[19:21:15] [Netty IO #0/INFO] [journeymap/]: CLIENT
+[19:21:15] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[19:21:15] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:21:16] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[19:21:16] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[19:21:16] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:21:16] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[19:21:16] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:21:16] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:21:16] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[19:21:16] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[19:21:16] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[19:21:16] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[19:21:16] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[19:21:16] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[19:21:16] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[19:21:16] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[19:21:16] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[19:21:16] [Server thread/INFO] [/]: npe choco
+[19:21:26] [Netty IO #3/INFO] [FML/]: Client protocol version 2
+[19:21:26] [Netty IO #3/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[19:21:26] [Netty IO #3/INFO] [journeymap/]: CLIENT
+[19:21:26] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[19:21:27] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:21:27] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[19:21:27] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[19:21:27] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:21:27] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[19:21:27] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:21:27] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:21:27] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[19:21:27] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[19:21:27] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[19:21:27] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[19:21:27] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[19:21:27] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[19:21:27] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[19:21:27] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[19:21:27] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[19:21:27] [Server thread/INFO] [/]: npe choco
+[19:21:57] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:21:57] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:22:00] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:23:25] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[19:23:25] [Netty IO #2/INFO] [FML/]: Client attempting to join with 121 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,bspkrsCore@6.16,MoreBows2@1.2,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,McMultipart@1.2.0.347,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,CoFHCore@1.7.10R3.1.4,Forge@10.13.4.1558,defaultkeys@1.0.28,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,NEIAddons|Developer@1.12.14.40,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.38,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,BuildCraft|Compat@7.1.7,BattleTowers@1.5.2,HelpFixer@1.0.7,InfernalMobs@1.6.6,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
+[19:23:25] [Netty IO #2/INFO] [journeymap/]: CLIENT
+[19:23:25] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[19:23:25] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:23:25] [Server thread/WARN] [/]: java.net.ConnectException: Connection refused (Connection refused)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.PlainSocketImpl.socketConnect(Native Method)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[19:23:25] [Server thread/WARN] [/]: 	at java.net.Socket.connect(Socket.java:589)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1022)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1020)
+[19:23:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:23:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1019)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:91)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1466)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1464)
+[19:23:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivileged(Native Method)
+[19:23:25] [Server thread/WARN] [/]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+[19:23:25] [Server thread/WARN] [/]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1463)
+[19:23:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.Aether.readPage(Aether.java:610)
+[19:23:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.donator.DonatorChoice.isDonator(DonatorChoice.java:73)
+[19:23:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.onPlayerLogin(PlayerTracker.java:43)
+[19:23:25] [Server thread/WARN] [/]: 	at net.aetherteam.aether.player.PlayerTracker.PlayerLoggedInEvent(PlayerTracker.java:28)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_35_PlayerTracker_PlayerLoggedInEvent_PlayerLoggedInEvent.invoke(.dynamic)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:572)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.server.management.ServerConfigurationManager.initializeConnectionToPlayer(ServerConfigurationManager.java:236)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:190)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.completeHandshake(NetworkDispatcher.java:465)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:21)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.HandshakeCompletionHandler.channelRead0(HandshakeCompletionHandler.java:11)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:98)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+[19:23:25] [Server thread/WARN] [/]: 	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:169)
+[19:23:25] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:77)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:245)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:173)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:991)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:431)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:809)
+[19:23:25] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+[19:23:25] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[19:23:25] [Server thread/INFO] [/]: npe choco
+[19:24:09] [Netty IO #2/INFO] [/]: [DIM4]<Petsche> j
+[19:24:56] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:24:56] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:25:59] [Server thread/INFO] [/]: Battletower Positions reloaded. Lines 567, entries 554
+[19:26:22] [Server thread/INFO] [/]: Logged 
+[19:26:22] [Server thread/INFO] [/]: 554
+[19:26:22] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: ,
+[19:26:22] [Server thread/INFO] [/]: 256
+[19:26:22] [Server thread/INFO] [/]: ], mindist 
+[19:26:22] [Server thread/INFO] [/]: 202.385770
+[19:26:22] [Server thread/INFO] [/]: Tower Site [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: |
+[19:26:22] [Server thread/INFO] [/]: 256
+[19:26:22] [Server thread/INFO] [/]: ] rejected: 
+[19:26:22] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:22] [Server thread/INFO] [/]: Logged 
+[19:26:22] [Server thread/INFO] [/]: 554
+[19:26:22] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: ,
+[19:26:22] [Server thread/INFO] [/]: 272
+[19:26:22] [Server thread/INFO] [/]: ], mindist 
+[19:26:22] [Server thread/INFO] [/]: 202.385770
+[19:26:22] [Server thread/INFO] [/]: Tower Site [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: |
+[19:26:22] [Server thread/INFO] [/]: 272
+[19:26:22] [Server thread/INFO] [/]: ] rejected: 
+[19:26:22] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:22] [Server thread/INFO] [/]: Logged 
+[19:26:22] [Server thread/INFO] [/]: 554
+[19:26:22] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: ,
+[19:26:22] [Server thread/INFO] [/]: 288
+[19:26:22] [Server thread/INFO] [/]: ], mindist 
+[19:26:22] [Server thread/INFO] [/]: 197.909070
+[19:26:22] [Server thread/INFO] [/]: Tower Site [
+[19:26:22] [Server thread/INFO] [/]: 1552
+[19:26:22] [Server thread/INFO] [/]: |
+[19:26:22] [Server thread/INFO] [/]: 288
+[19:26:22] [Server thread/INFO] [/]: ] rejected: 
+[19:26:22] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:32] [Server thread/INFO] [/]: Logged 
+[19:26:32] [Server thread/INFO] [/]: 554
+[19:26:32] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: ,
+[19:26:32] [Server thread/INFO] [/]: 256
+[19:26:32] [Server thread/INFO] [/]: ], mindist 
+[19:26:32] [Server thread/INFO] [/]: 197.909070
+[19:26:32] [Server thread/INFO] [/]: Tower Site [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: |
+[19:26:32] [Server thread/INFO] [/]: 256
+[19:26:32] [Server thread/INFO] [/]: ] rejected: 
+[19:26:32] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:32] [Server thread/INFO] [/]: Logged 
+[19:26:32] [Server thread/INFO] [/]: 554
+[19:26:32] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: ,
+[19:26:32] [Server thread/INFO] [/]: 272
+[19:26:32] [Server thread/INFO] [/]: ], mindist 
+[19:26:32] [Server thread/INFO] [/]: 213.466625
+[19:26:32] [Server thread/INFO] [/]: Tower Site [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: |
+[19:26:32] [Server thread/INFO] [/]: 272
+[19:26:32] [Server thread/INFO] [/]: ] rejected: 
+[19:26:32] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:32] [Server thread/INFO] [/]: Logged 
+[19:26:32] [Server thread/INFO] [/]: 554
+[19:26:32] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: ,
+[19:26:32] [Server thread/INFO] [/]: 288
+[19:26:32] [Server thread/INFO] [/]: ], mindist 
+[19:26:32] [Server thread/INFO] [/]: 202.385770
+[19:26:32] [Server thread/INFO] [/]: Tower Site [
+[19:26:32] [Server thread/INFO] [/]: 1568
+[19:26:32] [Server thread/INFO] [/]: |
+[19:26:32] [Server thread/INFO] [/]: 288
+[19:26:32] [Server thread/INFO] [/]: ] rejected: 
+[19:26:32] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:36] [Server thread/INFO] [/]: Logged 
+[19:26:36] [Server thread/INFO] [/]: 554
+[19:26:36] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:36] [Server thread/INFO] [/]: 1584
+[19:26:36] [Server thread/INFO] [/]: ,
+[19:26:36] [Server thread/INFO] [/]: 272
+[19:26:36] [Server thread/INFO] [/]: ], mindist 
+[19:26:36] [Server thread/INFO] [/]: 210.447143
+[19:26:36] [Server thread/INFO] [/]: Tower Site [
+[19:26:36] [Server thread/INFO] [/]: 1584
+[19:26:36] [Server thread/INFO] [/]: |
+[19:26:36] [Server thread/INFO] [/]: 272
+[19:26:36] [Server thread/INFO] [/]: ] rejected: 
+[19:26:36] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:36] [Server thread/INFO] [/]: Logged 
+[19:26:36] [Server thread/INFO] [/]: 554
+[19:26:36] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:36] [Server thread/INFO] [/]: 1584
+[19:26:36] [Server thread/INFO] [/]: ,
+[19:26:36] [Server thread/INFO] [/]: 288
+[19:26:36] [Server thread/INFO] [/]: ], mindist 
+[19:26:36] [Server thread/INFO] [/]: 208.000000
+[19:26:36] [Server thread/INFO] [/]: Tower Site [
+[19:26:36] [Server thread/INFO] [/]: 1584
+[19:26:36] [Server thread/INFO] [/]: |
+[19:26:36] [Server thread/INFO] [/]: 288
+[19:26:36] [Server thread/INFO] [/]: ] rejected: 
+[19:26:36] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:37] [Server thread/INFO] [/]: Logged 
+[19:26:37] [Server thread/INFO] [/]: 554
+[19:26:37] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: ,
+[19:26:38] [Server thread/INFO] [/]: 272
+[19:26:38] [Server thread/INFO] [/]: ], mindist 
+[19:26:38] [Server thread/INFO] [/]: 208.614477
+[19:26:38] [Server thread/INFO] [/]: Tower Site [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: |
+[19:26:38] [Server thread/INFO] [/]: 272
+[19:26:38] [Server thread/INFO] [/]: ] rejected: 
+[19:26:38] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:38] [Server thread/INFO] [/]: Logged 
+[19:26:38] [Server thread/INFO] [/]: 554
+[19:26:38] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: ,
+[19:26:38] [Server thread/INFO] [/]: 288
+[19:26:38] [Server thread/INFO] [/]: ], mindist 
+[19:26:38] [Server thread/INFO] [/]: 214.662526
+[19:26:38] [Server thread/INFO] [/]: Tower Site [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: |
+[19:26:38] [Server thread/INFO] [/]: 288
+[19:26:38] [Server thread/INFO] [/]: ] rejected: 
+[19:26:38] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:38] [Server thread/INFO] [/]: Logged 
+[19:26:38] [Server thread/INFO] [/]: 554
+[19:26:38] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: ,
+[19:26:38] [Server thread/INFO] [/]: 304
+[19:26:38] [Server thread/INFO] [/]: ], mindist 
+[19:26:38] [Server thread/INFO] [/]: 200.479425
+[19:26:38] [Server thread/INFO] [/]: Tower Site [
+[19:26:38] [Server thread/INFO] [/]: 1600
+[19:26:38] [Server thread/INFO] [/]: |
+[19:26:38] [Server thread/INFO] [/]: 304
+[19:26:38] [Server thread/INFO] [/]: ] rejected: 
+[19:26:38] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:39] [Server thread/INFO] [/]: Logged 
+[19:26:39] [Server thread/INFO] [/]: 554
+[19:26:39] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: ,
+[19:26:39] [Server thread/INFO] [/]: 272
+[19:26:39] [Server thread/INFO] [/]: ], mindist 
+[19:26:39] [Server thread/INFO] [/]: 208.000000
+[19:26:39] [Server thread/INFO] [/]: Tower Site [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: |
+[19:26:39] [Server thread/INFO] [/]: 272
+[19:26:39] [Server thread/INFO] [/]: ] rejected: 
+[19:26:39] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:39] [Server thread/INFO] [/]: Logged 
+[19:26:39] [Server thread/INFO] [/]: 554
+[19:26:39] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: ,
+[19:26:39] [Server thread/INFO] [/]: 288
+[19:26:39] [Server thread/INFO] [/]: ], mindist 
+[19:26:39] [Server thread/INFO] [/]: 222.279104
+[19:26:39] [Server thread/INFO] [/]: Tower Site [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: |
+[19:26:39] [Server thread/INFO] [/]: 288
+[19:26:39] [Server thread/INFO] [/]: ] rejected: 
+[19:26:39] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:39] [Server thread/INFO] [/]: Logged 
+[19:26:39] [Server thread/INFO] [/]: 554
+[19:26:39] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: ,
+[19:26:39] [Server thread/INFO] [/]: 304
+[19:26:39] [Server thread/INFO] [/]: ], mindist 
+[19:26:39] [Server thread/INFO] [/]: 208.614477
+[19:26:39] [Server thread/INFO] [/]: Tower Site [
+[19:26:39] [Server thread/INFO] [/]: 1616
+[19:26:39] [Server thread/INFO] [/]: |
+[19:26:39] [Server thread/INFO] [/]: 304
+[19:26:39] [Server thread/INFO] [/]: ] rejected: 
+[19:26:39] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:41] [Server thread/INFO] [/]: Logged 
+[19:26:41] [Server thread/INFO] [/]: 554
+[19:26:41] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: ,
+[19:26:41] [Server thread/INFO] [/]: 272
+[19:26:41] [Server thread/INFO] [/]: ], mindist 
+[19:26:41] [Server thread/INFO] [/]: 208.614477
+[19:26:41] [Server thread/INFO] [/]: Tower Site [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: |
+[19:26:41] [Server thread/INFO] [/]: 272
+[19:26:41] [Server thread/INFO] [/]: ] rejected: 
+[19:26:41] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:41] [Server thread/INFO] [/]: Logged 
+[19:26:41] [Server thread/INFO] [/]: 554
+[19:26:41] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: ,
+[19:26:41] [Server thread/INFO] [/]: 304
+[19:26:41] [Server thread/INFO] [/]: ], mindist 
+[19:26:41] [Server thread/INFO] [/]: 217.623528
+[19:26:41] [Server thread/INFO] [/]: Tower Site [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: |
+[19:26:41] [Server thread/INFO] [/]: 304
+[19:26:41] [Server thread/INFO] [/]: ] rejected: 
+[19:26:41] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:41] [Server thread/INFO] [/]: Logged 
+[19:26:41] [Server thread/INFO] [/]: 554
+[19:26:41] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: ,
+[19:26:41] [Server thread/INFO] [/]: 320
+[19:26:41] [Server thread/INFO] [/]: ], mindist 
+[19:26:41] [Server thread/INFO] [/]: 204.899976
+[19:26:41] [Server thread/INFO] [/]: Tower Site [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: |
+[19:26:41] [Server thread/INFO] [/]: 320
+[19:26:41] [Server thread/INFO] [/]: ] rejected: 
+[19:26:41] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:41] [Server thread/INFO] [/]: Logged 
+[19:26:41] [Server thread/INFO] [/]: 554
+[19:26:41] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: ,
+[19:26:41] [Server thread/INFO] [/]: 288
+[19:26:41] [Server thread/INFO] [/]: ], mindist 
+[19:26:41] [Server thread/INFO] [/]: 224.570702
+[19:26:41] [Server thread/INFO] [/]: Tower Site [
+[19:26:41] [Server thread/INFO] [/]: 1632
+[19:26:41] [Server thread/INFO] [/]: |
+[19:26:41] [Server thread/INFO] [/]: 288
+[19:26:41] [Server thread/INFO] [/]: ] rejected: 
+[19:26:41] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 272
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 210.447143
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 272
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 288
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 226.274170
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 288
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 304
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 227.402726
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 304
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 320
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 215.257985
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 320
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 336
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 203.646753
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1648
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 336
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1680
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 384
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 200.479425
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1680
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 384
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:44] [Server thread/INFO] [/]: Logged 
+[19:26:44] [Server thread/INFO] [/]: 554
+[19:26:44] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:44] [Server thread/INFO] [/]: 1696
+[19:26:44] [Server thread/INFO] [/]: ,
+[19:26:44] [Server thread/INFO] [/]: 384
+[19:26:44] [Server thread/INFO] [/]: ], mindist 
+[19:26:44] [Server thread/INFO] [/]: 214.662526
+[19:26:44] [Server thread/INFO] [/]: Tower Site [
+[19:26:44] [Server thread/INFO] [/]: 1696
+[19:26:44] [Server thread/INFO] [/]: |
+[19:26:44] [Server thread/INFO] [/]: 384
+[19:26:44] [Server thread/INFO] [/]: ] rejected: 
+[19:26:44] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:46] [Server thread/INFO] [/]: Logged 
+[19:26:46] [Server thread/INFO] [/]: 554
+[19:26:46] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: ,
+[19:26:46] [Server thread/INFO] [/]: 256
+[19:26:46] [Server thread/INFO] [/]: ], mindist 
+[19:26:46] [Server thread/INFO] [/]: 197.909070
+[19:26:46] [Server thread/INFO] [/]: Tower Site [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: |
+[19:26:46] [Server thread/INFO] [/]: 256
+[19:26:46] [Server thread/INFO] [/]: ] rejected: 
+[19:26:46] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:46] [Server thread/INFO] [/]: Logged 
+[19:26:46] [Server thread/INFO] [/]: 554
+[19:26:46] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: ,
+[19:26:46] [Server thread/INFO] [/]: 272
+[19:26:46] [Server thread/INFO] [/]: ], mindist 
+[19:26:46] [Server thread/INFO] [/]: 213.466625
+[19:26:46] [Server thread/INFO] [/]: Tower Site [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: |
+[19:26:46] [Server thread/INFO] [/]: 272
+[19:26:46] [Server thread/INFO] [/]: ] rejected: 
+[19:26:46] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:46] [Server thread/INFO] [/]: Logged 
+[19:26:46] [Server thread/INFO] [/]: 554
+[19:26:46] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: ,
+[19:26:46] [Server thread/INFO] [/]: 288
+[19:26:46] [Server thread/INFO] [/]: ], mindist 
+[19:26:46] [Server thread/INFO] [/]: 229.085137
+[19:26:46] [Server thread/INFO] [/]: Tower Site [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: |
+[19:26:46] [Server thread/INFO] [/]: 288
+[19:26:46] [Server thread/INFO] [/]: ] rejected: 
+[19:26:46] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 3 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:46] [Server thread/INFO] [/]: Logged 
+[19:26:46] [Server thread/INFO] [/]: 554
+[19:26:46] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: ,
+[19:26:46] [Server thread/INFO] [/]: 320
+[19:26:46] [Server thread/INFO] [/]: ], mindist 
+[19:26:46] [Server thread/INFO] [/]: 226.274170
+[19:26:46] [Server thread/INFO] [/]: Tower Site [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: |
+[19:26:46] [Server thread/INFO] [/]: 320
+[19:26:46] [Server thread/INFO] [/]: ] rejected: 
+[19:26:46] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:46] [Server thread/INFO] [/]: Logged 
+[19:26:46] [Server thread/INFO] [/]: 554
+[19:26:46] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: ,
+[19:26:46] [Server thread/INFO] [/]: 304
+[19:26:46] [Server thread/INFO] [/]: ], mindist 
+[19:26:46] [Server thread/INFO] [/]: 237.857100
+[19:26:46] [Server thread/INFO] [/]: Tower Site [
+[19:26:46] [Server thread/INFO] [/]: 1664
+[19:26:46] [Server thread/INFO] [/]: |
+[19:26:46] [Server thread/INFO] [/]: 304
+[19:26:46] [Server thread/INFO] [/]: ] rejected: 
+[19:26:46] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 256
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 202.385770
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 256
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 272
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 217.623528
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 272
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 288
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 232.963516
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 288
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 304
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 248.386795
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 304
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 320
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 237.857100
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 320
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 352
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 217.623528
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 352
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:48] [Server thread/INFO] [/]: Logged 
+[19:26:48] [Server thread/INFO] [/]: 554
+[19:26:48] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: ,
+[19:26:48] [Server thread/INFO] [/]: 336
+[19:26:48] [Server thread/INFO] [/]: ], mindist 
+[19:26:48] [Server thread/INFO] [/]: 227.402726
+[19:26:48] [Server thread/INFO] [/]: Tower Site [
+[19:26:48] [Server thread/INFO] [/]: 1680
+[19:26:48] [Server thread/INFO] [/]: |
+[19:26:48] [Server thread/INFO] [/]: 336
+[19:26:48] [Server thread/INFO] [/]: ] rejected: 
+[19:26:48] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 256
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 208.000000
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 256
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 272
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 222.854212
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 272
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 288
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 237.857100
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 288
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 304
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 252.982213
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 304
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 320
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 249.927990
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 320
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 336
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 240.000000
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 336
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 368
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 222.279104
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 368
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 352
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 230.755282
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 352
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 400
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 208.000000
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 400
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 416
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 202.385770
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 416
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:50] [Server thread/INFO] [/]: Logged 
+[19:26:50] [Server thread/INFO] [/]: 554
+[19:26:50] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: ,
+[19:26:50] [Server thread/INFO] [/]: 432
+[19:26:50] [Server thread/INFO] [/]: ], mindist 
+[19:26:50] [Server thread/INFO] [/]: 197.909070
+[19:26:50] [Server thread/INFO] [/]: Tower Site [
+[19:26:50] [Server thread/INFO] [/]: 1696
+[19:26:50] [Server thread/INFO] [/]: |
+[19:26:50] [Server thread/INFO] [/]: 432
+[19:26:50] [Server thread/INFO] [/]: ] rejected: 
+[19:26:50] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 256
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 214.662526
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 256
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 272
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 229.085137
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 272
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 288
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 243.704739
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 288
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 304
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 258.487911
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 304
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 320
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 262.419511
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 320
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 336
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 252.982213
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 336
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:52] [Server thread/INFO] [/]: Logged 
+[19:26:52] [Server thread/INFO] [/]: 554
+[19:26:52] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: ,
+[19:26:52] [Server thread/INFO] [/]: 352
+[19:26:52] [Server thread/INFO] [/]: ], mindist 
+[19:26:52] [Server thread/INFO] [/]: 244.229400
+[19:26:52] [Server thread/INFO] [/]: Tower Site [
+[19:26:52] [Server thread/INFO] [/]: 1712
+[19:26:52] [Server thread/INFO] [/]: |
+[19:26:52] [Server thread/INFO] [/]: 352
+[19:26:52] [Server thread/INFO] [/]: ] rejected: 
+[19:26:52] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 368
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 236.237169
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 368
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 384
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 229.085137
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 384
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 400
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 222.854212
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 400
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 416
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 217.623528
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 416
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 432
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 213.466625
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 432
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 448
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 210.447143
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 448
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 464
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 208.614477
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 464
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 480
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 208.000000
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 480
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:53] [Server thread/INFO] [/]: Logged 
+[19:26:53] [Server thread/INFO] [/]: 554
+[19:26:53] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: ,
+[19:26:53] [Server thread/INFO] [/]: 240
+[19:26:53] [Server thread/INFO] [/]: ], mindist 
+[19:26:53] [Server thread/INFO] [/]: 200.479425
+[19:26:53] [Server thread/INFO] [/]: Tower Site [
+[19:26:53] [Server thread/INFO] [/]: 1712
+[19:26:53] [Server thread/INFO] [/]: |
+[19:26:53] [Server thread/INFO] [/]: 240
+[19:26:53] [Server thread/INFO] [/]: ] rejected: 
+[19:26:53] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 256
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 222.279104
+[19:26:54] [Server thread/INFO] [/]: Tower Site [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: |
+[19:26:54] [Server thread/INFO] [/]: 256
+[19:26:54] [Server thread/INFO] [/]: ] rejected: 
+[19:26:54] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 272
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 236.237169
+[19:26:54] [Server thread/INFO] [/]: Tower Site [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: |
+[19:26:54] [Server thread/INFO] [/]: 272
+[19:26:54] [Server thread/INFO] [/]: ] rejected: 
+[19:26:54] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 288
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 250.439613
+[19:26:54] [Server thread/INFO] [/]: Tower Site [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: |
+[19:26:54] [Server thread/INFO] [/]: 288
+[19:26:54] [Server thread/INFO] [/]: ] rejected: 
+[19:26:54] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 304
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 264.847126
+[19:26:54] [Server thread/INFO] [/]: Tower Site [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: |
+[19:26:54] [Server thread/INFO] [/]: 304
+[19:26:54] [Server thread/INFO] [/]: ] rejected: 
+[19:26:54] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 320
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 275.274409
+[19:26:54] [Server thread/INFO] [/]: Tower Site [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: |
+[19:26:54] [Server thread/INFO] [/]: 320
+[19:26:54] [Server thread/INFO] [/]: ] rejected: 
+[19:26:54] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:26:54] [Server thread/INFO] [/]: Logged 
+[19:26:54] [Server thread/INFO] [/]: 554
+[19:26:54] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:26:54] [Server thread/INFO] [/]: 1728
+[19:26:54] [Server thread/INFO] [/]: ,
+[19:26:54] [Server thread/INFO] [/]: 336
+[19:26:54] [Server thread/INFO] [/]: ], mindist 
+[19:26:54] [Server thread/INFO] [/]: 266.293072
+[19:26:55] [Server thread/INFO] [/]: Battle Tower type CobbleStone spawned at [ 1728 | 336 ], underground: false
+[19:27:06] [Server thread/INFO] [/]: Logged 
+[19:27:06] [Server thread/INFO] [/]: 555
+[19:27:06] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: ,
+[19:27:06] [Server thread/INFO] [/]: 528
+[19:27:06] [Server thread/INFO] [/]: ], mindist 
+[19:27:06] [Server thread/INFO] [/]: 197.909070
+[19:27:06] [Server thread/INFO] [/]: Tower Site [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: |
+[19:27:06] [Server thread/INFO] [/]: 528
+[19:27:06] [Server thread/INFO] [/]: ] rejected: 
+[19:27:06] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:27:06] [Server thread/INFO] [/]: Logged 
+[19:27:06] [Server thread/INFO] [/]: 555
+[19:27:06] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: ,
+[19:27:06] [Server thread/INFO] [/]: 544
+[19:27:06] [Server thread/INFO] [/]: ], mindist 
+[19:27:06] [Server thread/INFO] [/]: 208.614477
+[19:27:06] [Server thread/INFO] [/]: Tower Site [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: |
+[19:27:06] [Server thread/INFO] [/]: 544
+[19:27:06] [Server thread/INFO] [/]: ] rejected: 
+[19:27:06] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:27:06] [Server thread/INFO] [/]: Logged 
+[19:27:06] [Server thread/INFO] [/]: 555
+[19:27:06] [Server thread/INFO] [/]:  towers so far, accepted new site coords [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: ,
+[19:27:06] [Server thread/INFO] [/]: 560
+[19:27:06] [Server thread/INFO] [/]: ], mindist 
+[19:27:06] [Server thread/INFO] [/]: 200.479425
+[19:27:06] [Server thread/INFO] [/]: Tower Site [
+[19:27:06] [Server thread/INFO] [/]: 1776
+[19:27:06] [Server thread/INFO] [/]: |
+[19:27:06] [Server thread/INFO] [/]: 560
+[19:27:06] [Server thread/INFO] [/]: ] rejected: 
+[19:27:06] [Server thread/INFO] [/]: Depth check - Banned Block or hole, Depth: 1 ID: net.minecraft.block.BlockAir@1ad2f5da
+[19:27:55] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:27:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:27:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:27:58] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:27:58] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:27:59] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:27:59] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:27:59] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:28:01] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:28:01] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:28:01] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:28:01] [Server thread/INFO] [eplus/]: Enchanting failed because: Cost is different on client and server
+[19:30:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:30:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:32:00] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:33:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:33:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:36:59] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:36:59] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:39:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:39:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:42:01] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:42:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:42:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:45:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:45:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:48:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:48:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:51:59] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:51:59] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:52:01] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[19:54:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:54:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
+[19:57:58] [Server thread/INFO] [/]: [GG DEV]: Flushing data for GG Util
+[19:57:58] [Server thread/INFO] [/]: [GG DEV]: Finished flushing data for GG Util
