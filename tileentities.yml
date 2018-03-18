@@ -28,9 +28,6 @@ world-settings:
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
-    twilightforest-tileentity-TileEntityTFFirefly:
-      tick-no-players: false
-      tick-interval: 1
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
@@ -86,6 +83,9 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-generator-tileentity-TileEntitySolarGenerator:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFFirefly:
       tick-no-players: false
       tick-interval: 1
     tconstruct-smeltery-logic-SmelteryLogic:
