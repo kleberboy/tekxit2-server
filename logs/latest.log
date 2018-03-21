@@ -1,6 +1,6 @@
-[00:02:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:02:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:04:36] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:02:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:02:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:04:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -24,15 +24,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:05:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:05:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:08:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:08:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:11:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:11:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:14:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:14:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:14:36] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:05:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:05:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:08:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:08:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:11:19] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:11:19] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:14:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:14:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:14:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -56,13 +56,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:17:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:17:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:20:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:20:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:23:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:23:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:24:37] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:17:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:17:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:20:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:20:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:23:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:23:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:24:49] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -86,13 +86,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:26:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:26:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:29:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:29:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:32:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:32:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:34:37] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:26:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:26:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:29:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:29:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:32:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:32:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:34:49] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -116,15 +116,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:35:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:35:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:38:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:38:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:41:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:41:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:44:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:44:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:44:40] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:35:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:35:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:38:26] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:38:26] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:41:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:41:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:44:28] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:44:28] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:44:49] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -148,13 +148,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:47:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:47:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:50:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:50:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:53:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:53:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:54:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:47:28] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:47:28] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:50:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:50:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:53:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:53:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:54:50] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -178,13 +178,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[00:56:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:56:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:59:28] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:59:28] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:02:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:02:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:04:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[00:56:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:56:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:59:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:59:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:02:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:02:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:04:50] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -208,15 +208,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:05:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:05:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:08:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:08:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:11:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:11:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:14:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:14:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:14:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:05:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:05:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:08:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:08:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:11:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:11:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:14:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:14:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:14:51] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -240,13 +240,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:17:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:17:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:20:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:20:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:23:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:23:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:24:42] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:17:37] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:17:37] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:20:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:20:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:23:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:23:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:24:51] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -270,13 +270,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:26:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:26:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:29:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:29:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:32:37] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:32:37] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:34:45] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:26:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:26:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:29:42] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:29:42] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:32:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:32:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:34:51] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -300,15 +300,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:35:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:35:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:38:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:38:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:41:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:41:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:44:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:44:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:44:45] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:35:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:35:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:38:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:38:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:41:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:41:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:44:46] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:44:46] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:44:52] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -332,13 +332,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:47:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:47:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:50:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:50:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:53:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:53:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:54:46] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:47:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:47:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:50:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:50:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:53:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:53:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:54:52] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -362,13 +362,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[01:56:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:56:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[01:59:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[01:59:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:02:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:02:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:04:46] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[01:56:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:56:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[01:59:49] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[01:59:49] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:02:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:02:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:04:52] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -392,13 +392,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:05:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:05:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:08:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:08:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:11:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:11:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:14:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:05:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:05:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:08:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:08:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:11:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:11:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:14:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:14:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:14:53] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -422,15 +424,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:14:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:14:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:17:49] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:17:49] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:20:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:20:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:23:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:23:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:24:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:17:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:17:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:20:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:20:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:23:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:23:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:24:53] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -454,13 +454,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:26:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:26:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:29:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:29:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:32:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:32:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:34:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:26:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:26:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:29:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:29:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:32:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:32:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:34:53] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -484,13 +484,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:35:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:35:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:38:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:38:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:41:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:41:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:44:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:35:59] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:35:59] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:38:59] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:38:59] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:42:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:42:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:44:54] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -514,15 +514,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:44:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:44:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:47:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:47:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:50:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:50:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:53:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:53:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:54:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:45:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:45:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:48:01] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:48:01] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:51:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:51:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:54:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:54:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[02:54:54] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -546,13 +546,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[02:56:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:56:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[02:59:59] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[02:59:59] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:03:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:03:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:04:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[02:57:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[02:57:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:00:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:00:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:03:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:03:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:04:54] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -576,13 +576,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:06:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:06:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:09:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:09:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:12:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:12:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:14:52] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:06:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:06:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:09:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:09:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:12:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:12:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:14:55] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -606,15 +606,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:15:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:15:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:18:05] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:18:05] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:21:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:21:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:24:06] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:24:06] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:24:52] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:15:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:15:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:18:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:18:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:21:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:21:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:24:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:24:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:24:55] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -638,13 +638,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:27:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:27:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:30:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:30:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:33:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:33:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:34:53] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:27:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:27:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:30:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:30:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:33:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:33:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:34:58] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -668,13 +668,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:36:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:36:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:39:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:39:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:42:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:42:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:44:53] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:36:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:36:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:39:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:39:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:42:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:42:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:45:02] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -698,15 +698,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:45:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:45:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:48:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:48:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:51:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:51:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:54:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:54:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[03:54:56] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:45:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:45:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:48:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:48:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:51:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:51:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:54:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:54:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[03:55:02] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -730,13 +730,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[03:57:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[03:57:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:00:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:00:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:03:15] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:03:15] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:04:57] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[03:57:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[03:57:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:00:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:00:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:03:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:03:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:05:05] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -760,13 +760,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:06:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:06:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:09:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:09:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:12:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:12:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:14:57] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:06:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:06:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:09:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:09:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:12:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:12:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:15:06] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -790,15 +790,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:15:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:15:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:18:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:18:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:21:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:21:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:24:19] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:24:19] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:25:00] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:15:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:15:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:18:26] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:18:26] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:21:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:21:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:24:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:24:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:25:06] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -822,13 +822,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:27:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:27:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:30:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:30:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:33:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:33:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:35:01] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:27:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:27:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:30:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:30:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:33:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:33:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:35:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -852,13 +852,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:36:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:36:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:39:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:39:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:42:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:42:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:45:04] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:36:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:36:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:39:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:39:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:42:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:42:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:45:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -882,15 +882,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:45:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:45:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:48:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:48:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:51:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:51:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:54:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:54:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[04:55:04] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:45:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:45:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:48:37] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:48:37] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:51:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:51:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:54:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:54:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[04:55:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -914,13 +914,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[04:57:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[04:57:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:00:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:00:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:03:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:03:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:05:05] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[04:57:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[04:57:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:00:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:00:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:03:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:03:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:05:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -944,13 +944,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:06:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:06:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:09:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:09:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:12:28] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:12:28] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:15:05] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:06:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:06:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:09:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:09:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:12:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:12:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:15:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -974,15 +974,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:15:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:15:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:18:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:18:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:21:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:21:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:24:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:24:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:25:06] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:15:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:15:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:18:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:18:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:21:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:21:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:24:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:24:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:25:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1006,13 +1006,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:27:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:27:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:30:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:30:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:33:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:33:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:35:06] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:27:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:27:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:30:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:30:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:33:49] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:33:49] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:35:09] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1036,13 +1036,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:36:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:36:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:39:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:39:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:42:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:42:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:45:06] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:36:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:36:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:39:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:39:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:42:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:42:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:45:12] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1066,15 +1066,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:45:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:45:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:48:34] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:48:34] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:51:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:51:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:54:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:54:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[05:55:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:45:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:45:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:48:53] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:48:53] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:51:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:51:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:54:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:54:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[05:55:12] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1098,13 +1098,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[05:57:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[05:57:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:00:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:00:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:03:37] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:03:37] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:05:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[05:57:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[05:57:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:00:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:00:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:03:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:03:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:05:13] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1128,13 +1128,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:06:38] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:06:38] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:09:37] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:09:37] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:12:38] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:12:38] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:15:07] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:06:59] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:06:59] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:09:59] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:09:59] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:13:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:13:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:15:13] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1158,15 +1158,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:15:38] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:15:38] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:18:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:18:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:21:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:21:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:24:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:24:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:25:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:16:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:16:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:19:01] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:19:01] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:22:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:22:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:25:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:25:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:25:16] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1190,13 +1190,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:27:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:27:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:30:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:30:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:33:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:33:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:35:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:28:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:28:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:31:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:31:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:34:05] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:34:05] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:35:17] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1220,13 +1220,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:36:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:36:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:39:43] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:39:43] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:42:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:42:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:45:08] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:37:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:37:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:40:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:40:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:43:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:43:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:45:20] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1250,15 +1250,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:45:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:45:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:48:46] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:48:46] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:51:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:51:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:54:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:54:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[06:55:09] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:46:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:46:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:49:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:49:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:52:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:52:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:55:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:55:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[06:55:20] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1282,13 +1282,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[06:57:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[06:57:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:00:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:00:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:03:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:03:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:05:09] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[06:58:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[06:58:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:01:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:01:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:04:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:04:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:05:21] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1312,13 +1312,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:06:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:06:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:09:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:09:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:12:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:12:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:15:09] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:07:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:07:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:10:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:10:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:13:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:13:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:15:21] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1342,15 +1342,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:15:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:15:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:18:53] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:18:53] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:21:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:21:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:24:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:24:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:25:10] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:16:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:16:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:19:19] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:19:19] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:22:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:22:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:25:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:25:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:25:22] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1374,13 +1374,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:27:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:27:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:30:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:30:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:33:55] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:33:55] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:35:10] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:28:20] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:28:20] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:31:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:31:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:34:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:34:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:35:22] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1404,13 +1404,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:36:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:36:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:39:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:39:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:42:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:42:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:45:10] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:37:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:37:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:40:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:40:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:43:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:43:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:45:25] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1434,15 +1434,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:45:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:45:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:48:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:48:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:52:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:52:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:55:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:55:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[07:55:11] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:46:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:46:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:49:24] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:49:24] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:52:26] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:52:26] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:55:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:55:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[07:55:29] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1466,13 +1466,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[07:58:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[07:58:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:01:01] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:01:01] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:04:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:04:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:05:11] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[07:58:26] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[07:58:26] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:01:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:01:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:04:27] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:04:27] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:05:29] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1496,13 +1496,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:07:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:07:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:10:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:10:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:13:03] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:13:03] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:15:11] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:07:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:07:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:10:28] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:10:28] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:13:29] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:13:29] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:15:29] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1526,15 +1526,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:16:04] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:16:04] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:19:05] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:19:05] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:22:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:22:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:25:06] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:25:06] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:25:11] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:16:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:16:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:19:30] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:19:30] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:22:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:22:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:25:30] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1558,13 +1556,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:28:06] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:28:06] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:31:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:31:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:34:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:34:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:35:15] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:25:31] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:25:31] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:28:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:28:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:31:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:31:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:34:33] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:34:33] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:35:30] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1588,13 +1588,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:37:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:37:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:40:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:40:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:43:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:43:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:45:15] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:37:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:37:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:40:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:40:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:43:35] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:43:35] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:45:30] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1618,15 +1618,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:46:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:46:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:49:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:49:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:52:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:52:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:55:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:55:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[08:55:15] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:46:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:46:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:49:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:49:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:52:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:52:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:55:31] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1650,13 +1648,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[08:58:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[08:58:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:01:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:01:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:04:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:04:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:05:16] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[08:55:38] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:55:38] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[08:58:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[08:58:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:01:39] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:01:39] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:04:40] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:04:40] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:05:31] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1680,13 +1680,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[09:07:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:07:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:10:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:10:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:13:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:13:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:15:16] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[09:07:42] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:07:42] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:10:41] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:10:41] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:13:42] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:13:42] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:15:31] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1710,15 +1710,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[09:16:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:16:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:19:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:19:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:22:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:22:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:25:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:25:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:25:17] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[09:16:42] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:16:42] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:19:42] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:19:42] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:22:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:22:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:25:39] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1742,13 +1740,15 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[09:28:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:28:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:31:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:31:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:34:10] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:34:10] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:35:17] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[09:25:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:25:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:28:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:28:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:31:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:31:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:34:45] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:34:45] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:35:39] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1772,13 +1772,13 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[09:37:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:37:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:40:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:40:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:43:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:43:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:45:17] [KCauldron version retrievier/WARN]: Error occured during retriving version
+[09:37:46] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:37:46] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:40:46] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:40:46] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:43:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:43:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:45:40] [KCauldron version retrievier/WARN]: Error occured during retriving version
 java.lang.Throwable
 	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
 	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
@@ -1802,56 +1802,469 @@ Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' doe
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
 	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
 	... 2 more
-[09:46:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:46:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:49:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:49:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:49:51] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[09:49:51] [Server thread/INFO]: Rcon: Stopping the server..
-[09:49:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[09:49:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[09:49:51] [Server thread/INFO]: Stopping server
-[09:49:51] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
-[09:49:51] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
-[09:49:51] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[09:49:51] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[09:49:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
-[09:49:51] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
-[09:49:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[09:49:51] [Server thread/INFO]: Saving players
-[09:49:51] [Server thread/INFO]: Saving worlds
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-39'/Mirror
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-42'/The Outer Lands
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-112'/The Last Millenium
-[09:49:51] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM4'/Dungeons
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM3'/Aether
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'iceland'/Overworld
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM-30'/Asteroids
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM-29'/Mars
-[09:49:52] [Server thread/INFO]: Saving chunks for level 'DIM-28'/Moon
-[09:49:52] [Server thread/INFO]: Unloading dimension 0
-[09:49:52] [Server thread/INFO]: Unloading dimension -1
-[09:49:52] [Server thread/INFO]: Unloading dimension 1
-[09:49:52] [Server thread/INFO]: Unloading dimension -30
-[09:49:52] [Server thread/INFO]: Unloading dimension -100
-[09:49:52] [Server thread/INFO]: Unloading dimension -37
-[09:49:52] [Server thread/INFO]: Unloading dimension -38
-[09:49:52] [Server thread/INFO]: Unloading dimension -39
-[09:49:52] [Server thread/INFO]: Unloading dimension -42
-[09:49:52] [Server thread/INFO]: Unloading dimension -112
-[09:49:52] [Server thread/INFO]: Unloading dimension 5
-[09:49:52] [Server thread/INFO]: Unloading dimension 4
-[09:49:52] [Server thread/INFO]: Unloading dimension 3
-[09:49:52] [Server thread/INFO]: Unloading dimension -28
-[09:49:52] [Server thread/INFO]: Unloading dimension -29
-[09:49:52] [Server thread/INFO]: Applying holder lookups
-[09:49:52] [Server thread/INFO]: Holder lookups applied
-[09:49:52] [Server thread/INFO]: Unregistered Dimension: -30
-[09:49:52] [Server thread/INFO]: Unregistered Dimension: -29
-[09:49:52] [Server thread/INFO]: Unregistered Dimension: -28
+[09:46:48] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:46:48] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:49:49] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:49:49] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:52:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:52:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:55:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[09:55:49] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:55:49] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[09:58:50] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[09:58:50] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:01:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:01:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:04:51] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:04:51] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:05:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:07:53] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:07:53] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:10:52] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:10:52] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:13:53] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:13:53] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:15:41] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:16:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:16:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:19:54] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:19:54] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:22:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:22:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:25:42] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:25:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:25:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:28:56] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:28:56] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:31:57] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:31:57] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:34:58] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:34:58] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:35:42] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:38:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:38:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:41:00] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:41:00] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:44:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:44:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:45:42] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:47:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:47:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:50:05] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:50:05] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:53:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:53:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:55:43] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[10:56:07] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:56:07] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[10:59:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[10:59:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:02:08] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:02:08] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:05:09] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:05:09] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:05:43] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:08:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:08:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:11:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:11:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:14:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:14:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:15:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:17:12] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:17:12] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:20:13] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:20:13] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:23:15] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:23:15] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:25:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:26:14] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:26:14] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:29:15] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:29:15] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:32:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:32:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:35:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:35:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:35:47] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:38:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:38:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:41:16] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:41:16] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:44:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:44:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:45:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:47:17] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:47:17] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:50:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:50:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:53:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:53:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:55:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[11:56:21] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:56:21] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[11:59:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[11:59:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:02:22] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[12:02:22] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:05:23] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[12:05:23] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:05:48] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: javax.net.ssl.SSLPeerUnverifiedException: Host name 'api.prok.pw' does not match the certificate subject provided by the peer (CN=mirror.aur.rocks)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.verifyHostname(SSLConnectionSocketFactory.java:465) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:395) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[12:08:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[12:08:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:11:25] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[12:11:25] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:14:18] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:14:18] [Server thread/INFO]: Rcon: Stopping the server..
+[12:14:18] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[12:14:18] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[12:14:18] [Server thread/INFO]: Stopping server
+[12:14:18] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
+[12:14:18] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[12:14:18] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[12:14:18] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[12:14:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[12:14:18] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[12:14:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[12:14:18] [Server thread/INFO]: Saving players
+[12:14:18] [Server thread/INFO]: Saving worlds
+[12:14:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:14:18] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
+[12:14:18] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
+[12:14:18] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
+[12:14:18] [Server thread/INFO]: Saving chunks for level 'DIM-39'/Mirror
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM-42'/The Outer Lands
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM-112'/The Last Millenium
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM7'/Twilight Forest
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM4'/Dungeons
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM3'/Aether
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'iceland'/Overworld
+[12:14:19] [Thread-6/INFO]: Stopping server
+[12:14:19] [Thread-6/INFO]: Saving players
+[12:14:19] [Thread-6/INFO]: Saving worlds
+[12:14:19] [Thread-6/INFO]: Saving chunks for level 'world'/Overworld
+[12:14:19] [Server thread/INFO]: Saving chunks for level 'DIM-30'/Asteroids
