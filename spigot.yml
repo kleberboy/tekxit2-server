@@ -92,10 +92,10 @@ world-settings:
       misc: 32
       other: 64
     arrow-despawn-rate: 1200
-    zombie-aggressive-towards-villager: true
-    item-despawn-rate: 6000
-    enable-zombie-pigmen-portal-spawns: true
-    view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
     use-async-lighting: true
+    zombie-aggressive-towards-villager: true
+    view-distance: 10
+    enable-zombie-pigmen-portal-spawns: true
+    item-despawn-rate: 6000
