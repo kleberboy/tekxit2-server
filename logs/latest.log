@@ -1,24 +1,23 @@
-[00:02:36] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:02:36] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:02:38] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:02:38] [Server thread/INFO]: Rcon: Stopping the server..
-[00:02:38] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:02:38] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:02:38] [Server thread/INFO]: Stopping server
-[00:02:38] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
-[00:02:38] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
-[00:02:38] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[00:02:38] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[00:02:38] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
-[00:02:38] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
-[00:02:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[00:02:38] [Server thread/INFO]: Saving players
-[00:02:38] [Server thread/INFO]: Saving worlds
-[00:02:38] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:02:38] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
-[00:02:38] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
-[00:02:38] [Thread-6/INFO]: Stopping server
-[00:02:38] [Thread-6/INFO]: Saving players
-[00:02:38] [Thread-6/INFO]: Saving worlds
-[00:02:38] [Thread-6/INFO]: Saving chunks for level 'world'/Overworld
-[00:02:38] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
+[00:01:47] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:01:47] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:02:44] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:02:44] [Server thread/INFO]: Rcon: Stopping the server..
+[00:02:44] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:02:44] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:02:44] [Server thread/INFO]: Stopping server
+[00:02:44] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
+[00:02:44] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[00:02:44] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[00:02:44] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[00:02:44] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[00:02:44] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[00:02:44] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[00:02:44] [Server thread/INFO]: Saving players
+[00:02:44] [Server thread/INFO]: Saving worlds
+[00:02:44] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:02:44] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
+[00:02:44] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
+[00:02:44] [Thread-6/INFO]: Stopping server
+[00:02:44] [Thread-6/INFO]: Saving players
+[00:02:44] [Thread-6/INFO]: Saving worlds
+[00:02:44] [Thread-6/INFO]: Saving chunks for level 'world'/Overworld
