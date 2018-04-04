@@ -44,6 +44,9 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -64,9 +67,6 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    merge-radius:
-      item: 2.5
-      exp: 3.0
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -91,11 +91,11 @@ world-settings:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
-    zombie-aggressive-towards-villager: true
     arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
-    chunks-per-tick: 650
-    clear-tick-list: false
+    zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true
     use-async-lighting: true
     view-distance: 10
+    chunks-per-tick: 650
+    clear-tick-list: false

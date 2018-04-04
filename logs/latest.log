@@ -1,20 +1,68 @@
-[00:02:32] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:02:32] [Server thread/INFO]: Rcon: Stopping the server..
-[00:02:32] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:02:32] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:02:32] [Server thread/INFO]: Stopping server
-[00:02:32] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
-[00:02:32] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
-[00:02:32] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[00:02:32] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[00:02:32] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
-[00:02:32] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
-[00:02:32] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[00:02:32] [Server thread/INFO]: Saving players
-[00:02:32] [Server thread/INFO]: Saving worlds
-[00:02:32] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:02:32] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
-[00:02:33] [Thread-6/INFO]: Stopping server
-[00:02:33] [Thread-6/INFO]: Saving players
-[00:02:33] [Thread-6/INFO]: Saving worlds
-[00:02:33] [Thread-6/INFO]: Saving chunks for level 'world'/Overworld
+[00:00:20] [KCauldron version retrievier/INFO]: I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://api.prok.pw:443: No route to host (Host unreachable)
+[00:00:20] [KCauldron version retrievier/INFO]: Retrying request to {s}->https://api.prok.pw:443
+[00:00:24] [KCauldron version retrievier/INFO]: I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://api.prok.pw:443: No route to host (Host unreachable)
+[00:00:24] [KCauldron version retrievier/INFO]: Retrying request to {s}->https://api.prok.pw:443
+[00:00:27] [KCauldron version retrievier/INFO]: I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://api.prok.pw:443: No route to host (Host unreachable)
+[00:00:27] [KCauldron version retrievier/INFO]: Retrying request to {s}->https://api.prok.pw:443
+[00:00:30] [KCauldron version retrievier/WARN]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:108) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_131]
+Caused by: java.net.NoRouteToHostException: No route to host (Host unreachable)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_131]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_131]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_131]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_131]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_131]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_131]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:337) ~[SSLConnectionSocketFactory.class:4.4.1]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134) ~[DefaultHttpClientConnectionOperator.class:4.4.1]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[PoolingHttpClientConnectionManager.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[MainClientExec.class:4.4.1]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[ProtocolExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[RetryExec.class:4.4.1]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[RedirectExec.class:4.4.1]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[InternalHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[CloseableHttpClient.class:4.4.1]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107) ~[CloseableHttpClient.class:4.4.1]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:92) ~[KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	... 2 more
+[00:02:46] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:02:46] [Server thread/INFO]: Rcon: Stopping the server..
+[00:02:46] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:02:46] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:02:46] [Server thread/INFO]: Stopping server
+[00:02:46] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
+[00:02:46] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[00:02:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[00:02:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[00:02:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[00:02:46] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[00:02:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[00:02:46] [Server thread/INFO]: Saving players
+[00:02:46] [Server thread/INFO]: Saving worlds
+[00:02:46] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:02:46] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
+[00:02:46] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
+[00:02:46] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-39'/Mirror
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-42'/The Outer Lands
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-112'/The Last Millenium
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM7'/Twilight Forest
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM4'/Dungeons
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM3'/Aether
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'iceland'/Overworld
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-30'/Asteroids
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-29'/Mars
+[00:02:47] [Server thread/INFO]: Saving chunks for level 'DIM-28'/Moon
+[00:02:48] [Thread-6/INFO]: Stopping server
+[00:02:48] [Thread-6/INFO]: Saving players
+[00:02:48] [Thread-6/INFO]: Saving worlds
+[00:02:48] [Thread-6/INFO]: Saving chunks for level 'world'/Overworld
