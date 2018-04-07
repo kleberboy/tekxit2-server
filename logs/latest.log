@@ -1,66 +1,67 @@
-[00:02:34] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:02:34] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:02:34] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:02:34] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
-[00:02:35] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:2.6.32-042stab127.2, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:02:35] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
-[00:02:35] [main/INFO]: [AppEng] Core Init
-[00:02:38] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.1.3.140 is newer than request 1.1.3.138
-[00:02:38] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:02:39] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: /opt/minecraft-server/server/tekxit2-server/./mods
-[00:02:39] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
-[00:02:39] [main/WARN]: Missing @MCVersion: codechicken.core.launch.CodeChickenCorePlugin  cofh.asm.LoadingPlugin  codechicken.core.launch.DepLoader  mods.immibis.core.ICCoreMod  mods.immibis.microblocks.coremod.MicroblocksCoreMod  ic2.core.coremod.IC2core  micdoodle8.mods.miccore.MicdoodlePlugin  codechicken.nei.asm.NEICorePlugin  openblocks.OpenBlocksCorePlugin  openmods.core.OpenModsCorePlugin  xreliquary.common.asm.DepLoader  thaumcraft.codechicken.core.launch.DepLoader  
-[00:02:39] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:02:39] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[00:02:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:02:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:02:32] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:02:32] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:02:32] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:02:32] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[00:02:33] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:2.6.32-042stab127.2, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:02:33] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[00:02:33] [main/INFO]: [AppEng] Core Init
+[00:02:36] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.1.3.140 is newer than request 1.1.3.138
+[00:02:36] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:02:37] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: /opt/minecraft-server/server/tekxit2-server/./mods
+[00:02:37] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[00:02:37] [main/WARN]: Missing @MCVersion: codechicken.core.launch.CodeChickenCorePlugin  cofh.asm.LoadingPlugin  codechicken.core.launch.DepLoader  mods.immibis.core.ICCoreMod  mods.immibis.microblocks.coremod.MicroblocksCoreMod  ic2.core.coremod.IC2core  micdoodle8.mods.miccore.MicdoodlePlugin  codechicken.nei.asm.NEICorePlugin  openblocks.OpenBlocksCorePlugin  openmods.core.OpenModsCorePlugin  xreliquary.common.asm.DepLoader  thaumcraft.codechicken.core.launch.DepLoader  
+[00:02:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:02:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:02:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:02:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:02:37] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
 [00:02:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: Loaded library EJML-core-0.26.jar.
-[00:02:45] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:45] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
-[00:02:46] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
-[00:02:46] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: [xreliquary.common.asm.DepLoader$DepLoadInst:checkExisting:433]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:46] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:47] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:47] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:47] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[00:02:47] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[00:02:47] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
-[00:02:48] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: sv (1 / 1)
-[00:02:48] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:02:48] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: xk (1 / 1)
-[00:02:49] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: zc (1 / 1)
-[00:02:51] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:02:51] [Server thread/INFO]: Attempting early MinecraftForge initialization
-[00:02:52] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
-[00:02:52] [Server thread/INFO]: Replaced 183 ore recipies
-[00:02:52] [Server thread/INFO]: Completed early MinecraftForge initialization
-[00:02:52] [Server thread/INFO]: [AppEng] Core Init
-[00:02:52] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[00:02:52] [Server thread/INFO]: Searching /opt/minecraft-server/server/tekxit2-server/mods for mods
-[00:02:52] [Server thread/INFO]: Also searching /opt/minecraft-server/server/tekxit2-server/mods/1.7.10 for mods
-[00:02:54] [Server thread/WARN]: Mod betterstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.1.127
-[00:02:55] [Server thread/WARN]: Mod EnderStorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.7.38
-[00:02:55] [Server thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
-[00:02:55] [Server thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:56] [Server thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:56] [Server thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:56] [Server thread/WARN]: Mod HardcoreEnderExpansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.8.6
+[00:02:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: Loaded library EJML-core-0.26.jar.
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
+[00:02:43] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[00:02:43] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: [xreliquary.common.asm.DepLoader$DepLoadInst:checkExisting:433]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:43] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:02:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:02:44] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[00:02:44] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[00:02:44] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
+[00:02:45] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: sv (1 / 1)
+[00:02:45] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:02:46] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: xk (1 / 1)
+[00:02:47] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: zc (1 / 1)
+[00:02:50] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:02:50] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[00:02:50] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[00:02:50] [Server thread/INFO]: Replaced 183 ore recipies
+[00:02:50] [Server thread/INFO]: Completed early MinecraftForge initialization
+[00:02:51] [Server thread/INFO]: [AppEng] Core Init
+[00:02:51] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:02:51] [Server thread/INFO]: Searching /opt/minecraft-server/server/tekxit2-server/mods for mods
+[00:02:51] [Server thread/INFO]: Also searching /opt/minecraft-server/server/tekxit2-server/mods/1.7.10 for mods
+[00:02:52] [Server thread/WARN]: Mod betterstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.1.127
+[00:02:54] [Server thread/WARN]: Mod EnderStorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.7.38
+[00:02:54] [Server thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[00:02:54] [Server thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:54] [Server thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:54] [Server thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:55] [Server thread/WARN]: Mod HardcoreEnderExpansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.8.6
+[00:02:58] [Server thread/WARN]: Mod PowerConverters is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10_3.2.1
