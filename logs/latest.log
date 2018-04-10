@@ -1,193 +1,193 @@
-[00:01:48] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:01:48] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:01:48] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
-[00:01:49] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
-[00:01:49] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:2.6.32-042stab127.2, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:01:49] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
-[00:01:50] [main/INFO]: [AppEng] Core Init
-[00:01:53] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.1.3.140 is newer than request 1.1.3.138
-[00:01:53] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:01:54] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: /opt/minecraft-server/server/tekxit2-server/./mods
-[00:01:54] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
-[00:01:54] [main/WARN]: Missing @MCVersion: codechicken.core.launch.CodeChickenCorePlugin  cofh.asm.LoadingPlugin  codechicken.core.launch.DepLoader  mods.immibis.core.ICCoreMod  mods.immibis.microblocks.coremod.MicroblocksCoreMod  ic2.core.coremod.IC2core  micdoodle8.mods.miccore.MicdoodlePlugin  codechicken.nei.asm.NEICorePlugin  openblocks.OpenBlocksCorePlugin  openmods.core.OpenModsCorePlugin  xreliquary.common.asm.DepLoader  thaumcraft.codechicken.core.launch.DepLoader  
-[00:01:54] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:01:54] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:01:44] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:01:44] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:01:44] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:01:44] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[00:01:45] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:2.6.32-042stab127.2, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:01:45] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[00:01:45] [main/INFO]: [AppEng] Core Init
+[00:01:49] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.1.3.140 is newer than request 1.1.3.138
+[00:01:49] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:01:49] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: /opt/minecraft-server/server/tekxit2-server/./mods
+[00:01:49] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[00:01:49] [main/WARN]: Missing @MCVersion: codechicken.core.launch.CodeChickenCorePlugin  cofh.asm.LoadingPlugin  codechicken.core.launch.DepLoader  mods.immibis.core.ICCoreMod  mods.immibis.microblocks.coremod.MicroblocksCoreMod  ic2.core.coremod.IC2core  micdoodle8.mods.miccore.MicdoodlePlugin  codechicken.nei.asm.NEICorePlugin  openblocks.OpenBlocksCorePlugin  openmods.core.OpenModsCorePlugin  xreliquary.common.asm.DepLoader  thaumcraft.codechicken.core.launch.DepLoader  
+[00:01:49] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:01:49] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:01:49] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:01:49] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:01:49] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:52] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:52] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:52] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
 [00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:01:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:01:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:01:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: Loaded library EJML-core-0.26.jar.
-[00:02:00] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:00] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
-[00:02:01] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
-[00:02:01] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: [xreliquary.common.asm.DepLoader$DepLoadInst:checkExisting:433]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:02:01] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[00:02:01] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[00:02:01] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
-[00:02:02] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: sv (1 / 1)
-[00:02:02] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:02:02] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: xk (1 / 1)
-[00:02:03] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: zc (1 / 1)
-[00:02:05] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:02:06] [Server thread/INFO]: Attempting early MinecraftForge initialization
-[00:02:06] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
-[00:02:06] [Server thread/INFO]: Replaced 183 ore recipies
-[00:02:06] [Server thread/INFO]: Completed early MinecraftForge initialization
-[00:02:06] [Server thread/INFO]: [AppEng] Core Init
-[00:02:06] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[00:02:06] [Server thread/INFO]: Searching /opt/minecraft-server/server/tekxit2-server/mods for mods
-[00:02:06] [Server thread/INFO]: Also searching /opt/minecraft-server/server/tekxit2-server/mods/1.7.10 for mods
-[00:02:07] [Server thread/WARN]: Mod betterstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.1.127
-[00:02:09] [Server thread/WARN]: Mod EnderStorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.7.38
-[00:02:09] [Server thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
-[00:02:09] [Server thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:09] [Server thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:09] [Server thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
-[00:02:10] [Server thread/WARN]: Mod HardcoreEnderExpansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.8.6
-[00:02:12] [Server thread/WARN]: Mod PowerConverters is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10_3.2.1
-[00:02:14] [Server thread/INFO]: Forge Mod Loader has identified 118 mods to load
-[00:02:14] [Server thread/INFO]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
-[00:02:14] [Server thread/INFO]: Found mod(s) [CarpentersBlocks] containing declared API package com.cricketcraft.chisel.api (owned by chisel) without associated API reference
-[00:02:16] [Server thread/WARN]: Mod MineFactoryReloaded|CompatAtum has been disabled through configuration
-[00:02:16] [Server thread/WARN]: Mod MineFactoryReloaded|CompatBackTools has been disabled through configuration
-[00:02:16] [Server thread/WARN]: Mod MineFactoryReloaded|CompatForestry has been disabled through configuration
-[00:02:16] [Server thread/WARN]: Mod MineFactoryReloaded|CompatProjRed has been disabled through configuration
-[00:02:16] [Server thread/WARN]: Mod MineFactoryReloaded|CompatSufficientBiomes has been disabled through configuration
-[00:02:16] [Server thread/INFO]: FML has found a non-mod file VecMathInjection.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[00:02:16] [Server thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.140-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[00:02:18] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, appliedenergistics2-core, CodeChickenCore, ImmibisMicroblocks, Micdoodlecore, NotEnoughItems, PlayerAPI, OpenModsCore, <CoFH ASM>, mod_ThreadedLighting, Treecapitator, AdvancedSolarPanel, aether, appliedenergistics2, Artifice, Backpack, BattleTowers, betterstorage, BiblioCraft, BiblioWoodsEBXL, BiblioWoodsNatura, Botania, BrandonsCore, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, ChestTransporter, chisel, chococraft, chocolateQuest, CoFHCore, DraconicEvolution, eplus, EnderStorage, ExtrabiomesXL, ExtraTiC, ExtraUtilities, F2L, ForgeMicroblock, ForgeMultipart, McMultipart, GalacticraftMars, GalacticraftCore, gilded-games-util, HardcoreEnderExpansion, HelpFixer, hexxitgear, iChunUtil, IguanaTweaksTConstruct, ImmibisCore, IC2, InfernalMobs, IronChest, journeymap, Mantle, meteors, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTConstruct, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MoreBows2, cfm, Natura, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NetherOres, ObsidiPlates, OpenBlocks, OpenMods, harvestcraft, PowerConverters, ProjectZulu|Core, Railcraft, xreliquary, AS_Ruins, secretroomsmod, SSTOW, SpawnCommands, TConstruct, Thaumcraft, ThermalDynamics, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod, wildcaves3, witchery, bspkrsCore, Baubles, libsandstone] at CLIENT
-[00:02:18] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, appliedenergistics2-core, CodeChickenCore, ImmibisMicroblocks, Micdoodlecore, NotEnoughItems, PlayerAPI, OpenModsCore, <CoFH ASM>, mod_ThreadedLighting, Treecapitator, AdvancedSolarPanel, aether, appliedenergistics2, Artifice, Backpack, BattleTowers, betterstorage, BiblioCraft, BiblioWoodsEBXL, BiblioWoodsNatura, Botania, BrandonsCore, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, ChestTransporter, chisel, chococraft, chocolateQuest, CoFHCore, DraconicEvolution, eplus, EnderStorage, ExtrabiomesXL, ExtraTiC, ExtraUtilities, F2L, ForgeMicroblock, ForgeMultipart, McMultipart, GalacticraftMars, GalacticraftCore, gilded-games-util, HardcoreEnderExpansion, HelpFixer, hexxitgear, iChunUtil, IguanaTweaksTConstruct, ImmibisCore, IC2, InfernalMobs, IronChest, journeymap, Mantle, meteors, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTConstruct, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MoreBows2, cfm, Natura, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NetherOres, ObsidiPlates, OpenBlocks, OpenMods, harvestcraft, PowerConverters, ProjectZulu|Core, Railcraft, xreliquary, AS_Ruins, secretroomsmod, SSTOW, SpawnCommands, TConstruct, Thaumcraft, ThermalDynamics, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod, wildcaves3, witchery, bspkrsCore, Baubles, libsandstone] at SERVER
-[00:02:20] [Server thread/ERROR]: The mod Backpack is expecting signature @FINGERPRINT@ for source backpack-2.0.1-1.7.x.jar, however there is no signature matching that description
-[00:02:21] [Server thread/ERROR]: [Environment Checks] Bukkit implementation detected. This may cause issues. Bukkit implementations include Craftbukkit and Cauldron(MCPC+).
-[00:02:21] [Server thread/INFO]: Hello Minecraft!!!
-[00:02:22] [Server thread/INFO]: Hello Minecraft!!!
-[00:02:22] [Server thread/INFO]: Natura, what are we going to do tomorrow night?
-[00:02:22] [Server thread/INFO]: TConstruct, we're going to take over the world!
-[00:02:23] [Server thread/INFO]: [Immibis Core] Preferred energy system set to: infinite
-[00:02:24] [Server thread/INFO]: Processing ObjectHolder annotations
-[00:02:25] [Server thread/INFO]: Found 437 ObjectHolder annotations
-[00:02:25] [Server thread/INFO]: Identifying ItemStackHolder annotations
-[00:02:25] [Server thread/INFO]: Found 0 ItemStackHolder annotations
-[00:02:25] [Server thread/INFO]: Configured a dormant chunk cache size of 0
-[00:02:25] [Server thread/INFO]: Loading configuration file /opt/minecraft-server/server/tekxit2-server/config/Treecapitator.cfg
-[00:02:25] [Server thread/INFO]: Proceeding to load tree/mod configs from file.
-[00:02:25] [Server thread/INFO]: Galacticraft successfully injected bytecode into: ms (1 / 1)
-[00:02:28] [Server thread/INFO]: Pre Initialization ( started )
-[00:02:29] [Server thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
-[00:02:29] [Server thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
-[00:02:29] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
-[00:02:29] [Server thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
-[00:02:29] [Server thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
-[00:02:29] [Server thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
-[00:02:29] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
-[00:02:29] [Server thread/INFO]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
-[00:02:29] [Server thread/INFO]: Updated appeng/tile/powersink/MekJoules
-[00:02:29] [Server thread/INFO]: Allowing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
-[00:02:29] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
-[00:02:29] [Server thread/INFO]: Starting AE2 VersionChecker
-[00:02:29] [Server thread/INFO]: Pre Initialization ( ended after 1302ms )
-[00:02:29] [Server thread/INFO]: Registering Default Templates.
-[00:02:29] [AE2 VersionChecker/WARN]: Exception in thread "AE2 VersionChecker" 
-[00:02:29] [AE2 VersionChecker/WARN]: java.lang.IllegalArgumentException: Raw channel stable did not contain any of the pre-programmed types.
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parseChannel(VersionParser.java:117)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parseVersion(VersionParser.java:72)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parse(VersionParser.java:34)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.version.ModVersionFetcher.get(ModVersionFetcher.java:34)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.VersionChecker.processInterval(VersionChecker.java:106)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at appeng.services.VersionChecker.run(VersionChecker.java:86)
-[00:02:29] [AE2 VersionChecker/WARN]: 	at java.lang.Thread.run(Thread.java:748)
-[00:02:30] [Server thread/INFO]: Registering default generators
-[00:02:30] [Server thread/INFO]: Complete
-[00:02:30] [Server thread/INFO]: Starting BuildCraft 7.1.23
-[00:02:30] [Server thread/INFO]: Copyright (c) the BuildCraft team, 2011-2017
-[00:02:30] [Server thread/INFO]: http://www.mod-buildcraft.com
-[00:02:30] [Thread-11/INFO]: Beginning version check
-[00:02:33] [Server thread/INFO]: Bukkit detected, disabling Tile Entity caching because Bukkit doesnt seem to invalid Tile Entities properly!
-[00:02:34] [Server thread/WARN]: A mod has attempted to assign Block mods.railcraft.common.fluids.BlockRailcraftFluidFinite@2e3e6f4a to the Fluid 'steam' but this Fluid has already been linked to the Block powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid@1a82bb95. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
-[00:02:37] [Server thread/WARN]: Failed to load the marble list
-[00:02:37] [Server thread/WARN]: Failed to load the basalt list
-[00:02:37] [Server thread/WARN]: Failed to load the dimension blacklist
-[00:02:37] [Server thread/INFO]: Registered invisible enchant to ID 70
-[00:02:37] [Server thread/INFO]: Registered soulstealing enchant to ID 71
-[00:02:37] [Server thread/INFO]: Registered resistance enchant to ID 72
-[00:02:38] [Server thread/INFO]: Initializing.
-[00:02:39] [Server thread/INFO]: BLACK = DYE_BLACK
-[00:02:39] [Server thread/INFO]: BLUE = DYE_BLUE
-[00:02:39] [Server thread/INFO]: BROWN = DYE_BROWN
-[00:02:39] [Server thread/INFO]: WHITE = DYE_WHITE
-[00:02:39] [Server thread/INFO]: Module CAUTIA is enabled.
-[00:02:39] [Server thread/INFO]: Module FABRICA is enabled.
-[00:02:39] [Server thread/INFO]: Module AMICA is enabled.
-[00:02:39] [Server thread/INFO]: Name: ExtrabiomesXL:double_woodslab
-[00:02:39] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins191) -- Preparing for launch.
-[00:02:39] [Server thread/INFO]: Entering preinitialization phase.
-[00:02:39] [Server thread/INFO]: Loading configuration from disk.
-[00:02:39] [Server thread/INFO]: Configuration load completed.
-[00:02:39] [Server thread/INFO]: Skipping Pulse Natura Forestry Compatibility; missing dependency: Forestry
-[00:02:39] [Server thread/INFO]: Skipping Pulse Natura Waila Compatibility; missing dependency: Waila
-[00:02:41] [Server thread/INFO]: [Botania] Registered 1215 recipes.
-[00:02:42] [Server thread/WARN]: Not using BuildCraft oil - issues might occur!
-[00:02:42] [Server thread/WARN]: Not using BuildCraft fuel - issues might occur!
-[00:02:42] [Server thread/INFO]: Thermal Foundation: Loading Plugins...
-[00:02:42] [Server thread/INFO]: Thermal Foundation: Finished Loading Plugins.
-[00:02:43] [Server thread/INFO]: ThermalExpansion: Loading Plugins...
-[00:02:43] [Server thread/INFO]: Thermal Expansion: Finished Loading Plugins.
-[00:02:45] [Server thread/INFO]: Starting pre-init...
-[00:02:45] [Server thread/INFO]: Loading blocks...
+[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:54] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: Loaded library EJML-core-0.26.jar.
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
+[00:01:55] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[00:01:55] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: [xreliquary.common.asm.DepLoader$DepLoadInst:checkExisting:433]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:01:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:01:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[00:01:56] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[00:01:56] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
+[00:01:57] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: sv (1 / 1)
+[00:01:57] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:01:57] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: xk (1 / 1)
+[00:01:58] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1989]: Galacticraft successfully injected bytecode into: zc (1 / 1)
+[00:02:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:02:01] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[00:02:01] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[00:02:01] [Server thread/INFO]: Replaced 183 ore recipies
+[00:02:01] [Server thread/INFO]: Completed early MinecraftForge initialization
+[00:02:01] [Server thread/INFO]: [AppEng] Core Init
+[00:02:02] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:02:02] [Server thread/INFO]: Searching /opt/minecraft-server/server/tekxit2-server/mods for mods
+[00:02:02] [Server thread/INFO]: Also searching /opt/minecraft-server/server/tekxit2-server/mods/1.7.10 for mods
+[00:02:02] [Server thread/WARN]: Mod betterstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.1.127
+[00:02:04] [Server thread/WARN]: Mod EnderStorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.7.38
+[00:02:05] [Server thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[00:02:05] [Server thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:05] [Server thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:05] [Server thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.347
+[00:02:06] [Server thread/WARN]: Mod HardcoreEnderExpansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.8.6
+[00:02:08] [Server thread/WARN]: Mod PowerConverters is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.7.10_3.2.1
+[00:02:11] [Server thread/INFO]: Forge Mod Loader has identified 118 mods to load
+[00:02:11] [Server thread/INFO]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[00:02:11] [Server thread/INFO]: Found mod(s) [CarpentersBlocks] containing declared API package com.cricketcraft.chisel.api (owned by chisel) without associated API reference
+[00:02:13] [Server thread/WARN]: Mod MineFactoryReloaded|CompatAtum has been disabled through configuration
+[00:02:13] [Server thread/WARN]: Mod MineFactoryReloaded|CompatBackTools has been disabled through configuration
+[00:02:13] [Server thread/WARN]: Mod MineFactoryReloaded|CompatForestry has been disabled through configuration
+[00:02:13] [Server thread/WARN]: Mod MineFactoryReloaded|CompatProjRed has been disabled through configuration
+[00:02:13] [Server thread/WARN]: Mod MineFactoryReloaded|CompatSufficientBiomes has been disabled through configuration
+[00:02:13] [Server thread/INFO]: FML has found a non-mod file VecMathInjection.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[00:02:13] [Server thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.140-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[00:02:14] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, appliedenergistics2-core, CodeChickenCore, ImmibisMicroblocks, Micdoodlecore, NotEnoughItems, PlayerAPI, OpenModsCore, <CoFH ASM>, mod_ThreadedLighting, Treecapitator, AdvancedSolarPanel, aether, appliedenergistics2, Artifice, Backpack, BattleTowers, betterstorage, BiblioCraft, BiblioWoodsEBXL, BiblioWoodsNatura, Botania, BrandonsCore, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, ChestTransporter, chisel, chococraft, chocolateQuest, CoFHCore, DraconicEvolution, eplus, EnderStorage, ExtrabiomesXL, ExtraTiC, ExtraUtilities, F2L, ForgeMicroblock, ForgeMultipart, McMultipart, GalacticraftMars, GalacticraftCore, gilded-games-util, HardcoreEnderExpansion, HelpFixer, hexxitgear, iChunUtil, IguanaTweaksTConstruct, ImmibisCore, IC2, InfernalMobs, IronChest, journeymap, Mantle, meteors, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTConstruct, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MoreBows2, cfm, Natura, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NetherOres, ObsidiPlates, OpenBlocks, OpenMods, harvestcraft, PowerConverters, ProjectZulu|Core, Railcraft, xreliquary, AS_Ruins, secretroomsmod, SSTOW, SpawnCommands, TConstruct, Thaumcraft, ThermalDynamics, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod, wildcaves3, witchery, bspkrsCore, Baubles, libsandstone] at CLIENT
+[00:02:14] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine, appliedenergistics2-core, CodeChickenCore, ImmibisMicroblocks, Micdoodlecore, NotEnoughItems, PlayerAPI, OpenModsCore, <CoFH ASM>, mod_ThreadedLighting, Treecapitator, AdvancedSolarPanel, aether, appliedenergistics2, Artifice, Backpack, BattleTowers, betterstorage, BiblioCraft, BiblioWoodsEBXL, BiblioWoodsNatura, Botania, BrandonsCore, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Factory, BuildCraft|Silicon, BuildCraft|Robotics, BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Compat, CarpentersBlocks, ChestTransporter, chisel, chococraft, chocolateQuest, CoFHCore, DraconicEvolution, eplus, EnderStorage, ExtrabiomesXL, ExtraTiC, ExtraUtilities, F2L, ForgeMicroblock, ForgeMultipart, McMultipart, GalacticraftMars, GalacticraftCore, gilded-games-util, HardcoreEnderExpansion, HelpFixer, hexxitgear, iChunUtil, IguanaTweaksTConstruct, ImmibisCore, IC2, InfernalMobs, IronChest, journeymap, Mantle, meteors, MineFactoryReloaded, MineFactoryReloaded|CompatAppliedEnergistics, MineFactoryReloaded|CompatBuildCraft, MineFactoryReloaded|CompatChococraft, MineFactoryReloaded|CompatExtraBiomes, MineFactoryReloaded|CompatForgeMicroblock, MineFactoryReloaded|CompatIC2, MineFactoryReloaded|CompatRailcraft, MineFactoryReloaded|CompatThaumcraft, MineFactoryReloaded|CompatThermalExpansion, MineFactoryReloaded|CompatTConstruct, MineFactoryReloaded|CompatTwilightForest, MineFactoryReloaded|CompatVanilla, MoreBows2, cfm, Natura, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, NetherOres, ObsidiPlates, OpenBlocks, OpenMods, harvestcraft, PowerConverters, ProjectZulu|Core, Railcraft, xreliquary, AS_Ruins, secretroomsmod, SSTOW, SpawnCommands, TConstruct, Thaumcraft, ThermalDynamics, ThermalExpansion, ThermalFoundation, TwilightForest, weaponmod, wildcaves3, witchery, bspkrsCore, Baubles, libsandstone] at SERVER
+[00:02:18] [Server thread/ERROR]: The mod Backpack is expecting signature @FINGERPRINT@ for source backpack-2.0.1-1.7.x.jar, however there is no signature matching that description
+[00:02:18] [Server thread/ERROR]: [Environment Checks] Bukkit implementation detected. This may cause issues. Bukkit implementations include Craftbukkit and Cauldron(MCPC+).
+[00:02:18] [Server thread/INFO]: Hello Minecraft!!!
+[00:02:19] [Server thread/INFO]: Hello Minecraft!!!
+[00:02:20] [Server thread/INFO]: Natura, what are we going to do tomorrow night?
+[00:02:20] [Server thread/INFO]: TConstruct, we're going to take over the world!
+[00:02:20] [Server thread/INFO]: [Immibis Core] Preferred energy system set to: infinite
+[00:02:22] [Server thread/INFO]: Processing ObjectHolder annotations
+[00:02:22] [Server thread/INFO]: Found 437 ObjectHolder annotations
+[00:02:22] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[00:02:22] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[00:02:23] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[00:02:23] [Server thread/INFO]: Loading configuration file /opt/minecraft-server/server/tekxit2-server/config/Treecapitator.cfg
+[00:02:23] [Server thread/INFO]: Proceeding to load tree/mod configs from file.
+[00:02:23] [Server thread/INFO]: Galacticraft successfully injected bytecode into: ms (1 / 1)
+[00:02:26] [Server thread/INFO]: Pre Initialization ( started )
+[00:02:26] [Server thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[00:02:26] [Server thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[00:02:27] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[00:02:27] [Server thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[00:02:27] [Server thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[00:02:27] [Server thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
+[00:02:27] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[00:02:27] [Server thread/INFO]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
+[00:02:27] [Server thread/INFO]: Updated appeng/tile/powersink/MekJoules
+[00:02:27] [Server thread/INFO]: Allowing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[00:02:27] [Server thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[00:02:27] [Server thread/INFO]: Starting AE2 VersionChecker
+[00:02:27] [Server thread/INFO]: Pre Initialization ( ended after 1279ms )
+[00:02:27] [AE2 VersionChecker/WARN]: Exception in thread "AE2 VersionChecker" 
+[00:02:27] [AE2 VersionChecker/WARN]: java.lang.IllegalArgumentException: Raw channel stable did not contain any of the pre-programmed types.
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parseChannel(VersionParser.java:117)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parseVersion(VersionParser.java:72)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.version.VersionParser.parse(VersionParser.java:34)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.version.ModVersionFetcher.get(ModVersionFetcher.java:34)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.VersionChecker.processInterval(VersionChecker.java:106)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at appeng.services.VersionChecker.run(VersionChecker.java:86)
+[00:02:27] [AE2 VersionChecker/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[00:02:27] [Server thread/INFO]: Registering Default Templates.
+[00:02:28] [Server thread/INFO]: Registering default generators
+[00:02:28] [Server thread/INFO]: Complete
+[00:02:28] [Server thread/INFO]: Starting BuildCraft 7.1.23
+[00:02:28] [Server thread/INFO]: Copyright (c) the BuildCraft team, 2011-2017
+[00:02:28] [Server thread/INFO]: http://www.mod-buildcraft.com
+[00:02:28] [Thread-11/INFO]: Beginning version check
+[00:02:30] [Server thread/INFO]: Bukkit detected, disabling Tile Entity caching because Bukkit doesnt seem to invalid Tile Entities properly!
+[00:02:32] [Server thread/WARN]: A mod has attempted to assign Block mods.railcraft.common.fluids.BlockRailcraftFluidFinite@217093e6 to the Fluid 'steam' but this Fluid has already been linked to the Block powercrystals.minefactoryreloaded.block.fluid.BlockFactoryFluid@38be3dd3. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[00:02:34] [Server thread/WARN]: Failed to load the marble list
+[00:02:34] [Server thread/WARN]: Failed to load the basalt list
+[00:02:34] [Server thread/WARN]: Failed to load the dimension blacklist
+[00:02:35] [Server thread/INFO]: Registered invisible enchant to ID 70
+[00:02:35] [Server thread/INFO]: Registered soulstealing enchant to ID 71
+[00:02:35] [Server thread/INFO]: Registered resistance enchant to ID 72
+[00:02:36] [Server thread/INFO]: Initializing.
+[00:02:36] [Server thread/INFO]: BLACK = DYE_BLACK
+[00:02:36] [Server thread/INFO]: BLUE = DYE_BLUE
+[00:02:36] [Server thread/INFO]: BROWN = DYE_BROWN
+[00:02:36] [Server thread/INFO]: WHITE = DYE_WHITE
+[00:02:36] [Server thread/INFO]: Module CAUTIA is enabled.
+[00:02:36] [Server thread/INFO]: Module FABRICA is enabled.
+[00:02:36] [Server thread/INFO]: Module AMICA is enabled.
+[00:02:36] [Server thread/INFO]: Name: ExtrabiomesXL:double_woodslab
+[00:02:37] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins191) -- Preparing for launch.
+[00:02:37] [Server thread/INFO]: Entering preinitialization phase.
+[00:02:37] [Server thread/INFO]: Loading configuration from disk.
+[00:02:37] [Server thread/INFO]: Configuration load completed.
+[00:02:37] [Server thread/INFO]: Skipping Pulse Natura Forestry Compatibility; missing dependency: Forestry
+[00:02:37] [Server thread/INFO]: Skipping Pulse Natura Waila Compatibility; missing dependency: Waila
+[00:02:39] [Server thread/INFO]: [Botania] Registered 1215 recipes.
+[00:02:40] [Server thread/WARN]: Not using BuildCraft oil - issues might occur!
+[00:02:40] [Server thread/WARN]: Not using BuildCraft fuel - issues might occur!
+[00:02:41] [Server thread/INFO]: Thermal Foundation: Loading Plugins...
+[00:02:41] [Server thread/INFO]: Thermal Foundation: Finished Loading Plugins.
+[00:02:41] [Server thread/INFO]: ThermalExpansion: Loading Plugins...
+[00:02:41] [Server thread/INFO]: Thermal Expansion: Finished Loading Plugins.
+[00:02:44] [Server thread/INFO]: Starting pre-init...
+[00:02:44] [Server thread/INFO]: Loading blocks...
+[00:02:44] [Server thread/INFO]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[00:02:44] [Server thread/INFO]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[00:02:45] [Server thread/INFO]: 104 Feature's blocks loaded.
+[00:02:45] [Server thread/INFO]: Loading Tile Entities...
+[00:02:45] [Server thread/INFO]: Tile Entities loaded.
+[00:02:45] [Server thread/INFO]: Loading items...
 [00:02:45] [Server thread/INFO]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
 [00:02:45] [Server thread/INFO]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
-[00:02:46] [Server thread/INFO]: 104 Feature's blocks loaded.
-[00:02:46] [Server thread/INFO]: Loading Tile Entities...
-[00:02:46] [Server thread/INFO]: Tile Entities loaded.
-[00:02:46] [Server thread/INFO]: Loading items...
-[00:02:46] [Server thread/INFO]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
-[00:02:46] [Server thread/INFO]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
-[00:02:46] [Server thread/INFO]: 104 Feature's items loaded.
-[00:02:46] [Server thread/INFO]: Pre-init finished.
-[00:02:46] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/BigTree.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/CastleEnd.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/LakeCastle.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/neaEkkleasia.xiraxis.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/wizCastle.kanokarob.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/pigcity Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: 104 Feature's items loaded.
+[00:02:45] [Server thread/INFO]: Pre-init finished.
+[00:02:45] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/BigTree.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/CastleEnd.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/LakeCastle.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/neaEkkleasia.xiraxis.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/castles/wizCastle.kanokarob.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
+[00:02:45] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/pigcity Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/pigcity/art_gallery.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/pigcity/big_colisseum.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Building/pigcity/big_mansion.schematic Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
@@ -455,46 +455,46 @@
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Quest/shopRecipes/staffVendor Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Quest/shopRecipes/staffVendor.trade Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
 [00:02:46] [Server thread/INFO]: /opt/minecraft-server/server/tekxit2-server/config/Chocolate/Quest/shopRecipes/WizardShop.trade Tue Jan 01 00:00:00 EST 1980 Tue Mar 13 08:55:42 EDT 2018
-[00:02:47] [Server thread/INFO]: Finished PreInitialization
-[00:02:47] [Server thread/INFO]: Initializing Configurations.
-[00:02:47] [Server thread/INFO]: Plugin loaded: Treecapitatior
-[00:02:47] [Server thread/INFO]: Plugin loaded: ThaumcraftPlugin
-[00:02:47] [Server thread/INFO]: Plugin loaded: TConPlugin
-[00:02:47] [Server thread/INFO]: Plugin initialized in PreInit... Treecapitatior
-[00:02:47] [Server thread/INFO]: Plugin initialized in PreInit... ThaumcraftPlugin
-[00:02:47] [Server thread/INFO]: Initializing Blocks.
-[00:02:47] [Server thread/INFO]: Initializing Items.
-[00:02:47] [DE Contributors DL Thread/ERROR]: Failed to download contributors list
-[00:02:47] [DE Contributors DL Thread/WARN]: java.io.FileNotFoundException: /opt/minecraft-server/server/tekxit2-server/config/draconicevolution/contributors.json (No such file or directory)
-[00:02:47] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.open0(Native Method)
-[00:02:47] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
-[00:02:47] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
-[00:02:47] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
-[00:02:47] [DE Contributors DL Thread/WARN]: 	at com.brandon3055.draconicevolution.common.handler.ContributorHandler$DLThread.run(ContributorHandler.java:222)
-[00:02:47] [Server thread/INFO]: Hello World
+[00:02:46] [Server thread/INFO]: Finished PreInitialization
+[00:02:46] [Server thread/INFO]: Initializing Configurations.
+[00:02:46] [Server thread/INFO]: Plugin loaded: Treecapitatior
+[00:02:46] [Server thread/INFO]: Plugin loaded: TConPlugin
+[00:02:46] [Server thread/INFO]: Plugin loaded: ThaumcraftPlugin
+[00:02:46] [Server thread/INFO]: Plugin initialized in PreInit... Treecapitatior
+[00:02:46] [Server thread/INFO]: Plugin initialized in PreInit... ThaumcraftPlugin
+[00:02:46] [Server thread/INFO]: Initializing Blocks.
+[00:02:46] [Server thread/INFO]: Initializing Items.
+[00:02:46] [DE Contributors DL Thread/ERROR]: Failed to download contributors list
+[00:02:46] [DE Contributors DL Thread/WARN]: java.io.FileNotFoundException: /opt/minecraft-server/server/tekxit2-server/config/draconicevolution/contributors.json (No such file or directory)
+[00:02:46] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.open0(Native Method)
+[00:02:46] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[00:02:46] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[00:02:46] [DE Contributors DL Thread/WARN]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[00:02:46] [DE Contributors DL Thread/WARN]: 	at com.brandon3055.draconicevolution.common.handler.ContributorHandler$DLThread.run(ContributorHandler.java:222)
+[00:02:46] [Server thread/INFO]: Hello World
 [00:02:48] [Server thread/INFO]: Skipping Pulse Tinkers Waila Compatibility; missing dependency: Waila
 [00:02:48] [Server thread/INFO]: Skipping Pulse Tinkers Mystcraft Compatibility; missing dependency: Mystcraft
 [00:02:48] [Server thread/INFO]: Skipping Pulse Tinkers' Underground Biomes Compatiblity; missing dependency: UndergroundBiomes
 [00:02:48] [Server thread/INFO]: Skipping Pulse Tinkers RF-Tools Compatibility; missing dependency: rftools
-[00:02:49] [Server thread/INFO]: Gear module active. Adding gear cast.
-[00:02:49] [Server thread/INFO]: Natura Detected
-[00:02:49] [Server thread/INFO]: Applied Energistics Detected
-[00:02:49] [Server thread/INFO]: Botania Detected
-[00:02:49] [Server thread/INFO]: Galacticraft Mars Detected
-[00:02:49] [Server thread/INFO]: Twilight Forest Detected
-[00:02:49] [Server thread/INFO]: Thaumcraft Detected
-[00:02:49] [Server thread/INFO]: Better Storage Detected
-[00:02:49] [Server thread/INFO]: Dragonic Evolution Detected
-[00:02:49] [Server thread/INFO]: ExtraUtils Detected
-[00:02:49] [Server thread/INFO]: HarvestCraft Detected
-[00:02:49] [Server thread/INFO]: Thermal Foundation Detected
-[00:02:50] [Server thread/INFO]: Galacticraft oil is not default, issues may occur.
-[00:02:50] [Server thread/INFO]: Galacticraft fuel is not default, issues may occur.
+[00:02:48] [Server thread/INFO]: Gear module active. Adding gear cast.
+[00:02:48] [Server thread/INFO]: Natura Detected
+[00:02:48] [Server thread/INFO]: Applied Energistics Detected
+[00:02:48] [Server thread/INFO]: Botania Detected
+[00:02:48] [Server thread/INFO]: Galacticraft Mars Detected
+[00:02:48] [Server thread/INFO]: Twilight Forest Detected
+[00:02:48] [Server thread/INFO]: Thaumcraft Detected
+[00:02:48] [Server thread/INFO]: Better Storage Detected
+[00:02:48] [Server thread/INFO]: Dragonic Evolution Detected
+[00:02:48] [Server thread/INFO]: ExtraUtils Detected
+[00:02:48] [Server thread/INFO]: HarvestCraft Detected
+[00:02:48] [Server thread/INFO]: Thermal Foundation Detected
+[00:02:49] [Server thread/INFO]: Galacticraft oil is not default, issues may occur.
+[00:02:49] [Server thread/INFO]: Galacticraft fuel is not default, issues may occur.
 [00:02:50] [Server thread/INFO]: Server Player 1.4 Created
 [00:02:50] [Server thread/INFO]: Server Player: registered GalacticraftCore
 [00:02:51] [Server thread/INFO]: Added 2 items into Decomposition blacklist
-[00:02:52] [Server thread/INFO]: Waila not found. Waila integration disabled.
-[00:02:52] [Server thread/INFO]: Baubles mod found. Baubles integration enabled.
+[00:02:51] [Server thread/INFO]: Waila not found. Waila integration disabled.
+[00:02:51] [Server thread/INFO]: Baubles mod found. Baubles integration enabled.
 [00:02:52] [Server thread/INFO]: Thaumcraft mod found. Thaumcraft integration enabled.
 [00:02:52] [Server thread/INFO]: Wrong side: SERVER, Developer Tools Addon not loading
 [00:02:52] [Server thread/INFO]: Version check success: appliedenergistics2 required / rv2-stable-10 detected
@@ -515,9 +515,9 @@
 [00:02:54] [Server thread/INFO]: Registering Events
 [00:02:54] [Server thread/INFO]: Starting Potion Init 
 [00:02:54] [Server thread/INFO]: Finished Potion Init 
-[00:02:55] [Server thread/INFO]: Load Entity Moxdels and Render
-[00:02:55] [Server thread/INFO]: Load Entity Properties
-[00:02:55] [Server thread/INFO]: Starting ItemBlock Setup
+[00:02:54] [Server thread/INFO]: Load Entity Moxdels and Render
+[00:02:54] [Server thread/INFO]: Load Entity Properties
+[00:02:54] [Server thread/INFO]: Starting ItemBlock Setup
 [00:02:55] [Server thread/INFO]: Starting ItemBlock Registration
 [00:02:55] [Server thread/WARN]: ****************************************
 [00:02:55] [Server thread/WARN]: * A broken ore dictionary registration with name foodSalt has occurred. It adds an item (type: class com.stek101.projectzulu.common.core.ItemGenerics) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
@@ -531,3 +531,71 @@ TO USERS: YES this is a BUG in the mod Project Zulu report it to them!
 [00:02:55] [Server thread/WARN]: ****************************************
 [00:02:55] [Server thread/INFO]: Completed ItemBlock Registration
 [00:02:55] [Server thread/INFO]: Registering Entites
+[00:02:58] [Server thread/INFO]: Loaded custom tier kill settings!
+[00:02:58] [Server thread/INFO]: Min kills: 0,64,128,256,512,1024
+[00:02:58] [Server thread/INFO]: Max kills: 63,127,255,511,1023,1024
+[00:02:58] [Server thread/INFO]: Loaded configuration file!
+[00:02:58] [Server thread/INFO]: Loading Plugins...
+[00:02:58] [Server thread/INFO]: Finished Loading Plugins.
+[00:03:01] [Server thread/INFO]: Skipping Pulse MultipartCompat; missing pulse: HarvestLevelTweaks
+[00:03:01] [Server thread/INFO]: Applying holder lookups
+[00:03:01] [Server thread/INFO]: Holder lookups applied
+[00:03:01] [Server thread/INFO]: Injecting itemstacks
+[00:03:01] [Server thread/INFO]: Itemstack injection complete
+[00:03:01] [Server thread/INFO]: Loading properties
+[00:03:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:03:01] [Server thread/INFO]: This server is running KCauldron version 1.7.10-R0.1-SNAPSHOT (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[00:03:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:03:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:03:02] [Server thread/INFO]: Generating keypair
+[00:03:02] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25564
+[00:03:02] [Server thread/INFO]: Successfully loaded 267 out of 267 recipes for shaped recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 76 out of 76 recipes for shapeless recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 17 out of 17 recipes for block cutter recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 48 out of 48 recipes for compressor recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 64 out of 64 recipes for macerator recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 4 out of 4 recipes for metal former cutting recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[00:03:02] [Server thread/INFO]: Successfully loaded 25 out of 25 recipes for thermal centrifuge recipes
+[00:03:03] [Server thread/INFO]: Initialization ( started )
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.WoodenGear:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronNugget:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.EnderDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.GoldDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronDust:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[00:03:03] [Server thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[00:03:03] [Server thread/INFO]: Recipes Loading: Grind: 4 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Macerator: 7 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: OreRegistration: 14 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: MekCrusher: 3 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: MekEnrichment: 2 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: GrindFZ: 7 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Press: 3 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Shaped: 202 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Shapeless: 55 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: HCCrusher: 8 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Smelt: 2 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Crusher: 8 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Pulverizer: 8 loaded.
+[00:03:03] [Server thread/INFO]: Recipes Loading: Inscribe: 8 loaded.
+[00:03:03] [Server thread/INFO]: Initialization ( ended after 407ms )
+[00:03:04] [Server thread/INFO]: BuildCraft Compat Initialized
+[00:03:04] [Server thread/INFO]: ForgeMultiPart Compat Initialized
+[00:03:04] [Server thread/INFO]: Carpenter's Blocks compat initialized
+[00:03:04] [Server thread/INFO]: MineFactoryReloaded Compat Initialized
+[00:03:04] [Server thread/INFO]: AE2 Compat Initialized
+[00:03:04] [Server thread/INFO]: Registering 1 to dimension blacklist
+[00:03:04] [Server thread/INFO]: Registering -1 to dimension blacklist
+[00:03:04] [Server thread/INFO]: Registering stone type minecraft:stone@0
+[00:03:04] [Server thread/INFO]: Registering flat to world type blacklist
+[00:03:04] [Server thread/INFO]: Initializing Treecapitator support...
+[00:03:04] [Server thread/INFO]: Treecapitator IMC message sent.
+[00:03:04] [Server thread/INFO]: Entering initialization phase.

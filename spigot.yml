@@ -11,8 +11,10 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
 settings:
-  fullMatchRate: 10
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -20,6 +22,7 @@ settings:
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
+  fullMatchRate: 10
   player-shuffle: 0
 messages:
   restart: Server is restarting
@@ -28,22 +31,21 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
-commands:
-  log: true
-  tab-complete: true
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
     mob-spawn-range: 4
+    random-light-updates: false
+    save-structure-info: true
+    max-bulk-chunks: 5
+    max-entity-collisions: 8
+    max-tick-time:
+      tile: 50
+      entity: 50
+    max-tnt-per-tick: 100
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -83,19 +85,17 @@ world-settings:
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
-    random-light-updates: false
-    save-structure-info: true
-    max-bulk-chunks: 5
-    max-entity-collisions: 8
-    max-tick-time:
-      tile: 50
-      entity: 50
-    max-tnt-per-tick: 100
-    arrow-despawn-rate: 1200
-    zombie-aggressive-towards-villager: true
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     view-distance: 10
-    use-async-lighting: true
+    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
+    zombie-aggressive-towards-villager: true
+    use-async-lighting: true
     enable-zombie-pigmen-portal-spawns: true
     chunks-per-tick: 650
     clear-tick-list: false
